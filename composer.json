@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Peachpie\\Avalonia\\SDK": "src/"
+            "Peachpie\\Avalonia\\SDK\\": "src/"
         }
     },
     "authors": [
